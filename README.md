@@ -1,6 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZQQqqCkD)
 # React + TypeScript + Vite
 
+## Daniel Mártin
+## John Rojas
+
+## https://pokedex-but-in-react-john-rojas06289-7mh2mjg53.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
